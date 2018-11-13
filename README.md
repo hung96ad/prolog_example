@@ -2,8 +2,7 @@
 swi prolog family tree example
 
 ## Family tree
-
-![](Logic and Algorithm.png)
+<p align="center"><img src="Logic and Algorithm.png" width="90%" /></p>
 
 ## Download
 http://www.swi-prolog.org
